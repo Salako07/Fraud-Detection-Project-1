@@ -11,7 +11,7 @@ This project aims to develop a machine learning model that can detect fraudulent
 6.seaborn
 
 **Usage**
-Open the Jupyter Notebook: jupyter notebook credit_card_fraud_detection.ipynb
+Open the Jupyter Notebook: jupyter notebook fraud_detection.ipynb
 Run the cells in the notebook to train the machine learning model and evaluate its performance.
 Use the trained model to predict whether a credit card transaction is fraudulent or not.
 
